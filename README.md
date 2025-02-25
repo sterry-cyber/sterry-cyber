@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is sterry-cyber
-<br>... a passionate developer focused on creating innovative solutions and improving user experiences. Always eager to learn and grow, I'm currently diving into exciting projects that merge technology with creativity!</h2>
+<h2 align="left">Hi 👋! My name is sterry-cyber... <br>a passionate developer focused on creating innovative solutions and improving user experiences. Always eager to learn and grow, I'm currently diving into exciting projects that merge technology with creativity!</h2>
 
 ###
 
